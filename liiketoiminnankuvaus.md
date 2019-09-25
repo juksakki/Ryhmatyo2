@@ -1,0 +1,1 @@
+* 10 pistettä liiketoiminnankuvaus.md: yrityksen tulevan liiketoiminnan kuvaus. Käyttäkää edellisen ryhmätyön asiakirjan otsikoita TAI jotain sopivaa liiketoimintasuunnitelmapohjaa. Pituus n. ainakin 1000 sanaa
