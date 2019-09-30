@@ -11,3 +11,5 @@ juu -rasmus
 tere - noora
 
 tere - Jaska
+
+hei kaikki, t. Jarliin
