@@ -28,7 +28,7 @@ Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian.
 
 
 ##Noora
-
+30.9.2019 - Tehty liiketoiminnankuvauksesta 3. Asiakaat ja kohderyhmät
 
 ##Akseli
 
