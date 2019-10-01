@@ -13,5 +13,8 @@ tere - noora
 tere - Jaska
 
 hei kaikki, t. Jarliin
+<<<<<<< HEAD
 
+=======
+>>>>>>> asd
 .
