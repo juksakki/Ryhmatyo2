@@ -11,3 +11,15 @@
 
 
 ####Myynti ja markkinointi - Jarliin ja Jaakko
+
+
+#### Eclipse / ohjelmointityökalu - Noora
+
+
+#### GitHub / Continous Integration - Jarliin & Jaska
+
+
+#### Androidstudio / mobiiliohjelmointityökalu - Rasmus
+
+
+#### 

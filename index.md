@@ -13,5 +13,3 @@ tere - noora
 tere - Jaska
 
 hei kaikki, t. Jarliin
-
-akseli
