@@ -16,10 +16,16 @@
 #### Eclipse / ohjelmointityökalu - Noora
 
 
-#### GitHub / Continous Integration - Jarliin & Jaska
+#### GitHub / Continous Integration - Jaska
 
 
-#### Androidstudio / mobiiliohjelmointityökalu - Rasmus
+#### Androidstudio / mobiiliohjelmointityökalu - Jarliin
 
 
-#### Javascript - Akseli
+#### Java - Akseli
+
+### Apple XCode - Jukka
+
+### Photoshop jne. - Rasmus
+
+### Brackets
