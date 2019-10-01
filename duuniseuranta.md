@@ -37,7 +37,9 @@ Suoritin yksilötehtävän
 
 
 ##Noora
-30.9.2019 - Tehty liiketoiminnankuvauksesta 3. Asiakaat ja kohderyhmät
+30.09.2019 - Tehty duunilistan sisältö githubiin
+30.09.2019 - Tehty liiketoiminnankuvauksesta 3. Asiakaat ja kohderyhmät ja laietttu githubiin
+01.10.2019 - Tehty IDE työkalu Eclipse ja laitettu githubiin
 
 ##Akseli
 
