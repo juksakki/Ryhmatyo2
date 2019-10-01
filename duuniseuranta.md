@@ -37,3 +37,5 @@ Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian.
 30.9.2019. Kirjotin Palvelut osion valmiiksi.
 
 1.10.2019. Committasin ja pushasin tekstin GitHubiin.
+
+1.10.2019. Aloin kirjoittamaan Android Studiosta.
