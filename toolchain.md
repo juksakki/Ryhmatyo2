@@ -3,39 +3,10 @@
 Yhteensä 30 pistettä.
 
 
+### Brackets
+Brackets on Adobe Systemsin luoma ilmainen tekstieditori, jota yrityksessämme käytetään muun muassa nettisivujen suunnitteluun, muokkaamiseen ja tekemiseen. Yrityksemme työntekijöillä on aikaisempaa kokemusta Bracketsin käytöstä, ja uusien käyttäjien on helppo oppia Bracketsin käyttö. Brackets käyttää avointa lähdekoodia.  Käyttäjät voivat ilmoittaa lähdekoodissa olevista virhekoodeista, ehdottaa muutoksia ohjelman käytettävyyteen liittyen sekä auttaa koodamaan ohjelmaa. Bracketsin uusin päivitys tukee myös PHP- ohjelmointikieltä, minkä avulla pystytään lisäämään nettisivulle esimerkiksi graafisia ominaisuuksia. Bracketsin Markdown lisäosan ansiosta tekstitiedostossa tehdyt muutokset näkyvät käyttäjälle heti lisäikkunassa. Bracketsin inline- ominaisuus näyttää selaimessa reaaliaikaisesti koodissa tehdyt muutokset nettisivuja tehtäessä.  Brackets on myös yhteensopiva GitHubin kanssa. Brackets on yhteydessä myös selaimeen ja ohjelmassa koodiin tehtyjä muutoksia voi siirtää “push”- komennolla GitHubiin.  Bracketsilla pystyy kätevästi tekemään myös ryhmätöitä, eli monet henkilöt voivat tarvittaessa muokata tiedostoa.
+
 
 ### CI-työkalu
 Yrityksemme käyttää projekteissaan version hallinta työkalunaan GitHubia. GitHub mahdollistaa koodiin tehtyjen muokkausten ja edellisten version katselun ja ongelmatilanteissa vanhempi versio voidaan hakea historiasta ja ottaa uudelleen käyttöön. Yritys päätyi käyttämään GitHubia, sillä se oli ennestään tuttu osalle työntekijöistä. GitHub on myös nopea oppia koska internetistä löytyy paljon ohjeita ongelman ratkaisuun.
 Yrityksessämme käytössä oleva GitHub Teams maksaa 9 dollaria aina yhtä käyttäjää kohti ja yritys valitsi sen käyttöönsä sen laajan tarjonnan takia. GitHub tarjoaa myös laajan valikoiman ilmaisia sekä maksullisia lisäosia, joita työntekijät voivat halutessaan hyödyntää työnteossaan. Tärkeimpinä lisäosina yritys piti halvempiin ja ilmaiseen versioon verrattaessa työntekijöiden rooleihin sovelletut pääsyoikeudet muokattaviin ja saatavilla oleviin tiedostoihin. Tämä estää työntekijöitä muokkaamasta tiedostoja, joihin heillä ei ole oikeuksia, jolloin jotkin toiminnot saattaisivat lakata toimimasta asiakkaan internet-sivuilla tai jolloin saattaisi syntyä tietosuoja aukkoja. Yritys käyttää verkkosivujen rakentamiseen Brackets ohjelmaa, joka on helppokäyttöinen ja yhteensopiva GitHubin kanssa.
-
-### Android Studio
-
-Yrityksemme on harkinnut alkamaan luomaan mobiilisovelluksia asiakkaille. Tähän tarkoitukseen valitsimme Android Studion, jolla on tehty android-sovelluksien luontiin. Android Studio on android-käyttöjärjestelmän virallinen ohjelmointiympäristö, joka on julkaistiin joulukuussa 2014. Android Studiolla voi koodata Javalla, Kotlinilla, C++:lla. Android Studion hyviä puolia on muun muassa:
-
--	Ohjelmoija voi luoda virtuaalisia laitteita, jotka emuloivat Android Studiota. Tämä ominaisuus antaa sen mahdollisuuden, että tehtyjä sovelluksia voi       testata ennen kun ne julkaistaan.
--	Android Studion voi yhdistää GitHubiin.
--	Jos Android Studion käytössä tarvitsee apua, löytää vastauksen varmasti Androidin foorumeilta, jossa on iso ja aktiivinen yhteisö.
--	Ilmainen.
--	Helppokäyttöinen.
-
-Android Studiossa ei ole paljoa huonoja puolia, mutta lukemieni arvostelujen mukaan Android Studio tarvitsee paljon tietokoneen prosessointivoimaa ja muistia, joten vakaaseen käyttöön tarvitaan tehokas kannettava tai pöytäkone.
-
-### Adobe Illustrator
-
-Käytämme Adobe Illustratoria työkaluna nettisivujen graafiseen suunnitteluun. Adobe Illustratorin hyviä puolia ovat muun muassa:
-
--	Hyvä käyttöjärjestelmä, jota voi muokata itselleen mukavaksi. Esimerkiksi työkalupalkkeja voi pienentää ja piilottaa tarpeen mukaan.
--	Illustratoria voi käyttää melkein millä vain tietokoneella, koska sen järjestelmävaatimuksen ovat pienet. 
--	Yhteensopivuus Adobe Photoshopin kanssa
--	Vuosittaisia päivityksiä ja uusia ominaisuuksia uuden julkaistavan version yhteydessä.
--	Illustrator maksaa 24,97€/kk, joka on mielestämme sopiva hinta.
-
-### Adobe Photoshop
-
-Adobe Photoshop on toinen käyttämämme Adoben ohjelma. Käytämme Photoshoppia ottamiemme valokuvien käsittelyyn ja muokkaamiseen. Photoshopilla on monia kilpailijoita, mutta yrityksemme työntekijöillä on aiempaa kokemusta Photoshopin käytöstä, joten se on meille parhain vaihtoehto. Photoshopin hyviä puolia ovat muun muassa:
-
--	Photoshop tukee useita tiedostomuotoja, eikä tarvitse plug-inejä eri tiedostomuotojen avaamiseen.
--	Laajat työkalut kuvien käsittelyyn. 
--	Yhteensopivuus Adobe Illustratorin kanssa
--	Vuosittaisia päivityksiä ja uusia ominaisuuksia uuden julkaistavan version yhteydessä.
--	Photoshop maksaa 24,97€/kk, joka on mielestämme sopiva hinta.
