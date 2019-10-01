@@ -41,6 +41,10 @@ Suoritin yksilötehtävän
 
 ##Akseli
 
+30.09-01.10.2019. Kirjoitin yritysidean valmiiksi.
+01.10.2019.       Vein tekstin Githubiin.
+01.10.2019.       Aloitin kirjoittamaan seuraavasta aiheesta, javasta.
+
 
 ##Rasmus
 
