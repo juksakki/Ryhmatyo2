@@ -19,13 +19,11 @@
 #### GitHub / Continous Integration - Jaska
 
 
-#### Androidstudio / mobiiliohjelmointityökalu - Jarliin
+#### Brackets - Jarliin
 
 
 #### Java - Akseli
 
 ### Apple XCode - Jukka
 
-### Photoshop jne. - Rasmus
-
-### Brackets
+### Photoshop, Illustrator, Android Studio - Rasmus
