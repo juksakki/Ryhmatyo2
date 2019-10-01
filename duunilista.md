@@ -22,4 +22,4 @@
 #### Androidstudio / mobiiliohjelmointityökalu - Rasmus
 
 
-#### 
+#### Javascript - Akseli
