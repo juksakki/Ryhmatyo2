@@ -44,3 +44,5 @@ Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian.
 1.10.2019. Committasin ja pushasin tekstin GitHubiin.
 
 1.10.2019. Aloin kirjoittamaan Android Studiosta.
+
+1.10.2019. Aloin kirjottamaan Adobe Illustratorista ja Photoshopista.
