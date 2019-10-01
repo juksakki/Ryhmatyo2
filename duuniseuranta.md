@@ -57,3 +57,5 @@ Suoritin yksilötehtävän
 1.10.2019. Aloin kirjoittamaan Android Studiosta.
 
 1.10.2019. Aloin kirjottamaan Adobe Illustratorista ja Photoshopista.
+
+1.10.2019. Android Studio, Illustrator ja Photoshop teksti valmis. Pusken.
