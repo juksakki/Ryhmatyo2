@@ -3,6 +3,8 @@
 
 ## 1 Yritysidea
 
+Yrityksemme on erikoistunut tarjoamaan erilaisia ylläpitopalveluita muummoassa palvelinvalvonnan ja ohjelmistojen parissa. Palvelinvalvonnan tarkoitus on esimerkiksi aktiivisesti tarkkailla palvelinten kuntoa ja ennakoida mahdollisia tulevia ongelmia palvelimilla. Palvelimella tarkkailtaviin asioihin kuuluvat esimerkiksi, levyasemat, verkkoyhteydet, prosessorin sekä muistin käyttö ja palvelimella olevat palvelut ja ohjelmistot. Yrityksemme toimintatapoihin kuuluu esimerkiksi ennaltaehkäiseviä toimia, joka tarkoittaa muummoassa tarpeen vaatiessa voidaan poistaa levytilaa tai prosessoreita vähemmän käytössä olevilta palvelimilta. Palvelimelle voidaan myös tarvittaessa lisätä levyasemille lisää tallennustilaa tai ylikuormittuville palvelimille lisää prosessoreita ja muistia. Näillä erilaisilla toimenpiteillä saadaan palvelinympäristö optimoitua asiakkaalle parhaaksi. Virtuaalisessa ympäristössä pystytään helposti muutamalla komennolla antamaan lisää levytilaa tai prosessoreita, kun taas fyysisessä ympäristössä joudutaan lisääminen tekemään manuaalisesti konesalissa. Yrityksemme palveluihin ohjelmien ylläpidossa kuuluu esimerkiksi, ohjelmien uusien versioiden päivitys vanhojen tilalle ja päivityksestä aiheutuvat muutostoimet. Yrityksen ylläpidon päämäärä on pitää ohjelmisto toimintakuntoisena. Ohjelmistojen/sovellusten laatua parannetaan muummoassa korjaamalla löydetyt bugit. Yhtenä yrityksemme palveluista on verkkopalveluiden ylläpito. Verkkopalveluiden ylläpito tarkoittaa, että ohjelmisto on aina saatavilla ja ajantasalla kun ohjelmisto on verkkopalveluna selaimessa. Yrityksemme palveluista yhteenvetona on virheiden korjaaminen, suorituskyvyn tai muiden ominaisuuksien parantaminen asiakkaalle.
+
 
 
 ## 2 Tuote
