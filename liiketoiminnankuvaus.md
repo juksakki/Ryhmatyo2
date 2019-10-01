@@ -28,7 +28,43 @@ Myös markkinoinnissa otetaan eri ikäryhmät huomioon. Esimerkiksi nuoremille k
 Asiakkaana toimiessa pääsee vaikuttamaan myös yrityksen palveluihin ja kehitykseen säännöllisten palautteiden avulla, joihin pyydetään vastaamaan 4 kuukauden välein.
 
 
-## 4
+## 4 Markkinat ja kilpailijat
+
+             Isot organisaatiot: esimerkiksi speciaali.fi, johon sisältyy
+           Kunnossa pitopalvelut
+      ylläpito ja huoltopalvelut nettisivuille. 
+   Webtuki: nopea apua ongelmoihin nettisivujen tiimoilta, sivujen                 toimivuus ja niiden ylläpito, johon liittyy sivujen ajantasalla pito/päivittäminen Verkkosivujen teko.  Sähköpostien teko ja vanhojen sähköpostien päivittäminen
+  suojaa nettisivua esimerkiksi tietojen häviämiseltä, tallentaminen ja                                          varmuuskopiointi turvallista.
+                             
+                                 https://www.speciaali.fi/nettisivujen-yllapito/
+   hinta taso pienen yrityksen verkkosivu voi olla 50-50,000e web suunnittelijan kokemus on isossa roolissa hinnan kannalta mutta, ei ole olemassa ”yleistä hintatasoa”
+     Markkina taso:  vaikuttaa esimerkiksi youtube ja facebook mainokset
+    Pienten yritykset nykyään käyttävät mielummin youtubea, koska  youtubessa ihmiset ovat kattomassa  jo videota, joten sen avulla on helpompi saada asiakas katsomaan edes muutama sekuntti mainostasi.  Facebookissa videot alkavat mutella.
+
+idea, tiimin reagointi huonoon arvosteluun ja siitä oppimiseen
+bisnesmalli ja asiakas tulokset 
+Rahoitus
+Tärkein asia on ajoitus koska sinun pitää tietää että,mitä tällä hetkellä tarvitaan, toka tiimi ja lopputulos. kolmantena idea
+neljänten bisnesmalli ja viidentenä rahoitus.
+Bil Grossin mukaan 
+  
+
+netti sivuilla kannattaa olla chatbotti, joka tervehtii jokaista sivulle tuliaa ja kysyy jos tarvitset apua
+
+                            Delanet.fi
+ 15- vuodenkokemuksella verkkosivuja tekevä yhden hengen                                     organisaatio .   Mahdollistaa, että jokainen delanetin tekemä verkkosivu on erillainen ja sivusto tehdään yhessä asiakkaan kanssa.
+
+Käytössä on HTML5, CSS3 ja jQuery.
+Delanet mahdollistaa että,  vaikka käyttäisit pöytäkonetta tai kännykkää sivustojen käyttö toimii yhtähyvin.
+Warmane
+
+  Peliservuja on esimerkiksi world of warcraftiin olevia private servuja joita voit tehdä vaikka itse ilmatteeksi, www.warmane.com avulla.
+
+
+
+
+
+
 
 ## 5 toimintatavat ja voimavarat/ myynti ja markkinointi
 
