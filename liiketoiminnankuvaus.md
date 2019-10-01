@@ -30,7 +30,7 @@ Asiakkaana toimiessa pääsee vaikuttamaan myös yrityksen palveluihin ja kehity
 
 ## 4 Markkinat ja kilpailijat
 
-             Isot organisaatiot: esimerkiksi speciaali.fi, johon sisältyy
+          Isot organisaatiot: esimerkiksi speciaali.fi, johon sisältyy
            Kunnossa pitopalvelut
       ylläpito ja huoltopalvelut nettisivuille. 
    Webtuki: nopea apua ongelmoihin nettisivujen tiimoilta, sivujen                 toimivuus ja niiden ylläpito, johon liittyy sivujen ajantasalla pito/päivittäminen Verkkosivujen teko.  Sähköpostien teko ja vanhojen sähköpostien päivittäminen
