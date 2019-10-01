@@ -24,7 +24,7 @@ $ Git push origin master # vie tehdyt muutokset githubin repositoryyn
 30.9.2019
 Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian.
 
-##Jukka
+##Jukka Vein markkinat ja kilpailijat tekstin githubiin.
 
 
 ##Noora
