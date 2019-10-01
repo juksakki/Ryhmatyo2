@@ -20,6 +20,10 @@ Git Push = Vie tietokoneellasi tehdyt muutokset Githubin repositoryyn
 $ Git fetch # hakee tehdyt muutokset repositorystä koneellesi
 $ Git rebase # yhdistää fetchillä ladatut muutokset oman koneesi versioon repositorystä
 $ Git push origin master # vie tehdyt muutokset githubin repositoryyn
+
+#####1.10.2019
+Päivitin duunilistaan seuraavan työvaiheen työtehtävät
+
 ##Jarliin
 30.9.2019
 Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian.
