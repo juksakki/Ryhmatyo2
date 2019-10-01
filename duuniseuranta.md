@@ -34,3 +34,6 @@ Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian.
 
 
 ##Rasmus
+30.9.2019. Kirjotin Palvelut osion valmiiksi.
+
+1.10.2019. Committasin ja pushasin tekstin GitHubiin.

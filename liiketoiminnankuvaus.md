@@ -5,7 +5,18 @@
 
 
 
-## 2 Tuote/Palvelu
+## 2 Tuote
+
+Yrityksemme tarjoaa kattavat palvelut nettisivujen ylläpitoon. Palveluihimme kuuluu nettisivujen suunnittelu, kunnossapitopalvelut, päivystävä web-tuki ja webhotelli. Alla kerromme tarkemmin edellä mainituista palveluista, jos et ole vielä varma mitä palveluita tarvitset.
+
+-	Nettisivujen suunnittelu. Teemme nettisivut alusta loppuun yksilöllisesti käyttötarkoitukseenne. Palveluun kuuluu:
+        - Graafinen suunnittelu. Luomme teille visuaalisesti miellyttävät nettisivut.
+        - Valokuvaus. Tarjoamme teille laadukkaat mainoskuvat mainostarpeitamme varten. Voitte siis varata meiltä kuvaussession, jos tarvitsette kuvia yrityksenne tiloista, henkilöstöstä tai muista kohteista. Jos ette tarvitse yritykselle personaalisia kuvia, meiltä löytyy myös laaja valikoima kuvituskuvia.
+        - Videokuvaus ja tuotanto. Jos tarpeenne vaatii, teemme myös teille videoita markkinoinnin tueksi. Tarvitseeko yrityksenne nettisivuillenne upotettavan esittelyvideon tai vaikkapa TV-mainoksen? Meillä se onnistuu.
+        - Kunnossapitopalvelut. Me ylläpidämme ja päivitämme nettisivujanne puolestanne. Ratkaisemme ongelmia kohtuullisessa ajassa ja varmistamme, että nettisivunne toimivat turvallisesti ja vakaasti, jotta voitte keskittyä omaan liiketoimintaanne ja jättää nettisivujen ylläpidon meille.
+        - Päivystävä web-tuki. Jos palveluissamme ilmenee ongelmia, tukipalvelumme auttaa ratkaisemalla ongelman nopeasti ja vaivattomasti. 
+        - Webhotelli. Webhotellistamme voi vuokrata kiintolevytilaa verkkosivujasi ja muita verkkopalveluita varten. Saat käyttöösi perustyökalut kiintolevytilan ylläpitämiseen, mutta jos olet tilannut meiltä nettisivut ja niiden ylläpitopalvelun, voit jättää webhotellin käytön meille. Webhotellipalvelumme on toteutettu laadukkailla palvelinjärjestelmillä joissa vikasietoisuus ja tietoturva ovat tarkoin valvottua ja ylläpidettyä.
+
 
 
 ## 3 Asiakkaat ja kohderyhmä
