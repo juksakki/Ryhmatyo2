@@ -16,10 +16,12 @@ Git Commit = "tallentaa" muutetut tiedostot ja commitin jälkeen voit viedä muu
 
 Git Push = Vie tietokoneellasi tehdyt muutokset Githubin repositoryyn
 
-**Eli** jos joku muu on tehnyt repositoryyn muutoksia ja haluat viedä omat muutoksesi Githubiin, toimi seuraavasti:
+**Eli** jos joku muu on tehnyt repositoryyn muutoksia ja haluat viedä omat muutoksesi Githubiin, toimi normaalien komentojen lisäksi seuraavasti:
 $ Git fetch # hakee tehdyt muutokset repositorystä koneellesi
 $ Git rebase # yhdistää fetchillä ladatut muutokset oman koneesi versioon repositorystä
 $ Git push origin master # vie tehdyt muutokset githubin repositoryyn
+###### 1.1.2019
+Kirjoitin GitHubista osana toolchainiä
 
 #####1.10.2019
 Päivitin duunilistaan seuraavan työvaiheen työtehtävät
