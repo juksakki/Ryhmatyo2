@@ -30,9 +30,8 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 30.9.2019
 Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian. Teksti pushattu GitHubiin. 
 
-
 1.10.2019
-Suoritin yksilötehtävän
+Suoritin yksilötehtävän. Ja kirjoitin Brackets- ohjelmasta toolchain.md tiedostoon.
 
 
 ##Jukka Vein markkinat ja kilpailijat tekstin githubiin.
