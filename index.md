@@ -22,4 +22,4 @@ hei kaikki, t. Jarliin
 .
 =======
 .  terve hei ja huomentaff
->>>>>>> moi moi :)dd
+>>>>>>> moi moi :)DDDD
