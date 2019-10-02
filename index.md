@@ -16,6 +16,10 @@ tere - Jaska
 hei kaikki, t. Jarliin
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 >>>>>>> asd
 .
+=======
+.  terve hei ja huomentaff
+>>>>>>> moi
