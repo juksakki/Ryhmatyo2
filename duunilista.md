@@ -4,7 +4,7 @@
 ####Tuote/palvelu - Rasmus
 
 
-####Asiakkaat ja kohderyhmät - Noora :-)
+####Asiakkaat ja kohderyhmät - Noora :-) :-)
 
 
 ####Markkinat ja kilpailijat - Jukka
