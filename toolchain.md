@@ -81,3 +81,23 @@ Käytämme Adobe Illustratoria työkaluna nettisivujen graafiseen suunnitteluun.
 - Vuosittaisia päivityksiä ja uusia ominaisuuksia uuden julkaistavan version yhteydessä.
 - Illustrator maksaa 24,97€/kk, joka on mielestämme sopiva hinta.
 
+### Adobe Photoshop 
+
+ 
+
+Adobe Photoshop on toinen käyttämämme Adoben ohjelma. Käytämme Photoshoppia ottamiemme valokuvien käsittelyyn ja muokkaamiseen. Photoshopilla on monia kilpailijoita, mutta yrityksemme työntekijöillä on aiempaa kokemusta Photoshopin käytöstä, joten se on meille parhain vaihtoehto. Photoshopin hyviä puolia ovat muun muassa: 
+
+ 
+
+- Photoshop tukee useita tiedostomuotoja, eikä tarvitse plug-inejä eri tiedostomuotojen avaamiseen. 
+
+- Laajat työkalut kuvien käsittelyyn.  
+
+- Yhteensopivuus Adobe Illustratorin kanssa 
+
+- Vuosittaisia päivityksiä ja uusia ominaisuuksia uuden julkaistavan version yhteydessä. 
+
+- Photoshop maksaa 24,97€/kk, joka on mielestämme sopiva hinta. 
+
+ 
+
