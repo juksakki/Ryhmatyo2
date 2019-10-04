@@ -83,3 +83,62 @@ Lisää näkyvyyttä yritykselle saadaan yhteistyökumppaneiden kautta, mm. hyv�
 Lisäksi teemme asiakkaillemme tietyin väliajoin palautekyselyjä, jossa asiakas voi kertoa mielipiteensä sekä kehityskohteet saamastaan palvelusta sekä työnlaadusta. 
 
 Olemme joustavia palvelujemme hinnoittelussa ja tarjoamme yrityksille palvelupaketteja. Tämä näkyy positiivisesti yrityksemme pitkän aikavälin tavoitteiden saavuttamisessa. Muodostamalla pitkäaikaisia asiakassuhteita yritysten välille ja näin varmistaen vakaan liiketuloksen kasvun pitkälle aikavälille. Kilpailukykyinen hinnoittelumme toimii myös houkuttimena uusille yritysasiakkaille. 
+
+
+
+
+## 6 Apple Xcode
+ 
+
+Tarkoitetaan Applen kehittämää ohjelmointiympäristöä, joka on tarkoitettu monille eri alustoille ja ohjelmakielille. 
+
+Xcodea käyttämällä voidaan tehdä komentoriviohjelmia, joita on esimerkiksi Java-applette, macOS- ohjelma ja on mahollista myös tehdä IOS alustalle.
+
+ 
+
+                                            Xcode IDEN Ominaisuuksia 
+
+                                                                 
+
+  Assistant editorilla voit kirjoittaa koodin käyttämällä ammattimaista editoria, edistyneellä valmiilla koodilla, taitettavalla koodilla, korostamalla syntaksia ja viestikuplaa, joka näyttää varoituksen, virheet ja muut tähän kuuluvat tiedot koodien avulla.                         
+
+ 
+
+Asset catalogi ,Editori Xcodessa, joka hoitaa appsit , kuvat, yhdistää monenlaiset resoluutiot samassa erässä.  
+
+                                            
+
+Assistant editori jakautuu kahteen osaan, tekemällä toisen paneelin ruudun, joka automaattisesti näyttää kyseiset tiedostot, joita tarvitaan apuna editoimisessa. 
+
+ 
+                                              
+
+Open quickly, kun painat Cmd-Shift-0 ja avaa minkä tahansa tiedoston ”työtilasta”, ensisijaisella editorilla, myös pitämällä pohjassa valintanäppäintä, kun valitset tiedostoja. 
+
+
+ 
+
+Version editori Näyttää yhtäjaksoisen aikataulun commiteista. 
+
+Apuna selvittäessä syytä koodin perusteella, jota editoidaan, graafisesti laitetaan takaisin, jotta voidaan vertailla lähde tiedostoja. Tuen avulla subversiossa ja git lähdettä kontrolloidaan SCM systems. 
+
+             
+
+Muita työkaluja on, esimerkiksi  Opengl frame capture, interface builder built in ja quick helper. 
+
+
+                                    Instrumentitteja 
+
+ 
+  Esimerkkejä Apple Xcoden instrumeteista.                                         
+
+ Data recording, joka kertoo instrumenteille mitä appia analysoida ja minkälaista dataa kerätä. 
+
+ Custom instrumentilla voi tehdä oman instrumentin käyttämällä D-trace ja instrument custom builderia. 
+
+
+Zombie decetion, hankala löytää erroreita ja katuu, se voidaan laitta “loukkuun”.
+
+Instrumetteihin kun appi yrittää päästä käsiksi mustiin, jota ei enään ole olemassa. 
+
+Visual comparison, kun dataa nauhotetaan ja näytetään siinä tulee helpompaa nähdä yhteydet, molemmissa on  erillaisia tapoja kerätä dataa tai samaa dataa, joka on tallennettu monella kerralla.
