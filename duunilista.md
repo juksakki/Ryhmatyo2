@@ -1,21 +1,41 @@
-#### Yritysidea - Akseli 
+Duunilista
+==========
 
-#### Tuote/palvelu - Rasmus
 
-#### Asiakkaat ja kohderyhmät - Noora :-) :-)
+### Akseli
 
-#### Markkinat ja kilpailijat - Jukka
+Yritysidea
+Java
 
-#### Myynti ja markkinointi - Jarliin ja Jaakko
+ 
+### Rasmus
 
-#### Eclipse / ohjelmointityökalu - Noora
+Tuote/palvelu
+Adobe photoshop,illustrator
+Android Studio
 
-#### GitHub / Continous Integration - Jaska
 
-#### Brackets - Jarliin
 
-#### Java - Akseli
+### Noora 
 
-#### Apple XCode - Jukka
+Asiakkaat ja kohderyhmät
+Eclipse / ohjelmointityökalu
 
-#### Photoshop, Illustrator, Android Studio - Rasmus
+
+### Jukka
+
+Markkinat ja kilpailijat
+Apple XCode
+
+
+### Jarliin
+
+Myynti ja markkinointi whit Jaakko
+Brackets
+
+
+### Jaakko
+
+Myynti ja markkinointi whit Jarliin
+GitHub / Continous Integration
+
