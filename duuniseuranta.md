@@ -1,5 +1,3 @@
-* 10 pistettä duuniseuranta.md: väliotsikoiksi päiväykset, alaotsikoiksi ryhmäläisten nimet. Ryhmäläiset kirjoittavat omat tekemisensä oman nimensä alle. Ei pituusrajoituksia
-
 ##Jaakko
 ######30.9.2019
 Tutkin ja harjoittelin Githubin fetch, rebase, merge, pull ja push komentoja Jarliinin kanssa.
@@ -77,10 +75,10 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 
 30.9.2019. Kirjotin Palvelut osion valmiiksi.
 
-1.10.2019. Committasin ja pushasin tekstin GitHubiin.
+1.10.2019 Aloin kirjoittamaan Android Studiosta.
 
-1.10.2019. Aloin kirjoittamaan Android Studiosta.
+1.10.2019 Aloin kirjottamaan Adobe Illustratorista ja Photoshopista.
 
-1.10.2019. Aloin kirjottamaan Adobe Illustratorista ja Photoshopista.
+1.10.2019 Android Studio, Illustrator ja Photoshop teksti valmis.
 
-1.10.2019. Android Studio, Illustrator ja Photoshop teksti valmis. Pusken.
+4.10.2019 Poistin ohjetekstit dokumenteistamme + pientä loppuviimeistelyä

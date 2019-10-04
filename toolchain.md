@@ -1,8 +1,3 @@
-* 10 pistettä toolchain.md: sisältää kuvauksen yritykselle suunnitellusta työkaluketjusta aina käytetyistä IDE (Integrated development environment) CI ratkaisuun saakka. Perustelkaa valintaa lyhyesti. Pituus n. ainakin 1000 sanaa
-
-Yhteensä 30 pistettä.
-
-
 ### Brackets
 Brackets on Adobe Systemsin luoma ilmainen tekstieditori, jota yrityksessämme käytetään muun muassa nettisivujen suunnitteluun, muokkaamiseen ja tekemiseen. Yrityksemme työntekijöillä on aikaisempaa kokemusta Bracketsin käytöstä, ja uusien käyttäjien on helppo oppia Bracketsin käyttö. Brackets käyttää avointa lähdekoodia.  Käyttäjät voivat ilmoittaa lähdekoodissa olevista virhekoodeista, ehdottaa muutoksia ohjelman käytettävyyteen liittyen sekä auttaa koodamaan ohjelmaa. Bracketsin uusin päivitys tukee myös PHP- ohjelmointikieltä, minkä avulla pystytään lisäämään nettisivulle esimerkiksi graafisia ominaisuuksia. Bracketsin Markdown lisäosan ansiosta tekstitiedostossa tehdyt muutokset näkyvät käyttäjälle heti lisäikkunassa. Bracketsin inline- ominaisuus näyttää selaimessa reaaliaikaisesti koodissa tehdyt muutokset nettisivuja tehtäessä.  Brackets on myös yhteensopiva GitHubin kanssa. Brackets on yhteydessä myös selaimeen ja ohjelmassa koodiin tehtyjä muutoksia voi siirtää “push”- komennolla GitHubiin.  Bracketsilla pystyy kätevästi tekemään myös ryhmätöitä, eli monet henkilöt voivat tarvittaessa muokata tiedostoa.
 
@@ -65,9 +60,13 @@ Java on ohjelmointikieli, jota käytämme yhtenä ohjelmakielenä yrityksessämm
 Yrityksemme on harkinnut alkamaan luomaan mobiilisovelluksia asiakkaille. Tähän tarkoitukseen valitsimme Android Studion, jolla on tehty android-sovelluksien luontiin. Android Studio on android-käyttöjärjestelmän virallinen ohjelmointiympäristö, joka on julkaistiin joulukuussa 2014. Android Studiolla voi koodata Javalla, Kotlinilla, C++:lla. Android Studion hyviä puolia on muun muassa:
 
 - Ohjelmoija voi luoda virtuaalisia laitteita, jotka emuloivat Android Studiota. Tämä ominaisuus antaa sen mahdollisuuden, että tehtyjä sovelluksia voi testata ennen kun ne julkaistaan.
+
 - Android Studion voi yhdistää GitHubiin.
+
 - Jos Android Studion käytössä tarvitsee apua, löytää vastauksen varmasti Androidin foorumeilta, jossa on iso ja aktiivinen yhteisö.
+
 - Ilmainen.
+
 - Helppokäyttöinen.
 
 Android Studiossa ei ole paljoa huonoja puolia, mutta lukemieni arvostelujen mukaan Android Studio tarvitsee paljon tietokoneen prosessointivoimaa ja muistia, joten vakaaseen käyttöön tarvitaan tehokas kannettava tai pöytäkone.
