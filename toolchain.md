@@ -55,3 +55,8 @@ Zombie decetion, hankala löytää erroreita ja katuu, se voidaan laitta “louk
 Instrumetteihin kun appi yrittää päästä käsiksi mustiin, jota ei enään ole olemassa. 
 
 Visual comparison, kun dataa nauhotetaan ja näytetään siinä tulee helpompaa nähdä yhteydet, molemmissa on  erillaisia tapoja kerätä dataa tai samaa dataa, joka on tallennettu monella kerralla. 
+
+
+### ohjelmointikieli Java
+Java on ohjelmointikieli, jota käytämme yhtenä ohjelmakielenä yrityksessämme. Java on yksi suurimmista ohjelmointikielistä ohjelmointimaailmassa ja kielenä se on hyvin monipuolinen.  Yrityksellämme on Eclipse (IDE) on ohjelmistoympäristö, joka tukee käyttämäämme Java-kieltä. Javaa hyödynnämme paljon verkkopalveluiden palvelinpään toteuttamiseen ja erilaisiin palvelimella tehtäviin ohjelmiin. Sillä tehdyt ohjelmat toimivat laajalti, esimerkiksi Windows-, Linux- ja Mac-ympäristöissä. Ohjelmistokehitys onnistuu näissä kaikissa ympäristöissä, mistä pidämme paljon. Javalla voimme toteuttaa myös esimerkiksi työpöytäsovelluksia sekä verkkopalveluita. Ohjelmointikielenä Java on avainasemassa Androidissa, koska se kirjoitetaan pääasiassa sillä ja Android käyttöjärjestelmä käyttää paljon Java-teknologiaa. Yksi Javan hyvistä puolista on sen suuri tietorakenteiden- ja kehysten laaja kirjasto, jota hyödyntämällä hankalia kooditekstejä ei tarvitse kirjoittaa käsin manuaalisesti. Java kieli perustuu samaan syntaksiin kuin muummoassa C ja C++ -kielet. Tehokkuutensa ansiosta se sopii esimerkiksi yleiseen kehitykseen tai erilaisiin peli ohjelmiin. Yhteenvetona Java sopii ohjelmointikielenä yritystemme tarpeisiin, koska se on monipuolinen ja sitä pystyy käyttämään moniin eri tarkoituksiin. 
+
