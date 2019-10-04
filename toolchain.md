@@ -90,13 +90,9 @@ Adobe Photoshop on toinen käyttämämme Adoben ohjelma. Käytämme Photoshoppia
  
 
 - Photoshop tukee useita tiedostomuotoja, eikä tarvitse plug-inejä eri tiedostomuotojen avaamiseen. 
-
 - Laajat työkalut kuvien käsittelyyn.  
-
 - Yhteensopivuus Adobe Illustratorin kanssa 
-
 - Vuosittaisia päivityksiä ja uusia ominaisuuksia uuden julkaistavan version yhteydessä. 
-
 - Photoshop maksaa 24,97€/kk, joka on mielestämme sopiva hinta. 
 
  
