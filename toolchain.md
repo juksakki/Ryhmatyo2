@@ -60,3 +60,15 @@ Visual comparison, kun dataa nauhotetaan ja näytetään siinä tulee helpompaa 
 ### Ohjelmointikieli Java
 Java on ohjelmointikieli, jota käytämme yhtenä ohjelmakielenä yrityksessämme. Java on yksi suurimmista ohjelmointikielistä ohjelmointimaailmassa ja kielenä se on hyvin monipuolinen.  Yrityksellämme on Eclipse (IDE) on ohjelmistoympäristö, joka tukee käyttämäämme Java-kieltä. Javaa hyödynnämme paljon verkkopalveluiden palvelinpään toteuttamiseen ja erilaisiin palvelimella tehtäviin ohjelmiin. Sillä tehdyt ohjelmat toimivat laajalti, esimerkiksi Windows-, Linux- ja Mac-ympäristöissä. Ohjelmistokehitys onnistuu näissä kaikissa ympäristöissä, mistä pidämme paljon. Javalla voimme toteuttaa myös esimerkiksi työpöytäsovelluksia sekä verkkopalveluita. Ohjelmointikielenä Java on avainasemassa Androidissa, koska se kirjoitetaan pääasiassa sillä ja Android käyttöjärjestelmä käyttää paljon Java-teknologiaa. Yksi Javan hyvistä puolista on sen suuri tietorakenteiden- ja kehysten laaja kirjasto, jota hyödyntämällä hankalia kooditekstejä ei tarvitse kirjoittaa käsin manuaalisesti. Java kieli perustuu samaan syntaksiin kuin muummoassa C ja C++ -kielet. Tehokkuutensa ansiosta se sopii esimerkiksi yleiseen kehitykseen tai erilaisiin peli ohjelmiin. Yhteenvetona Java sopii ohjelmointikielenä yritystemme tarpeisiin, koska se on monipuolinen ja sitä pystyy käyttämään moniin eri tarkoituksiin. 
 
+
+### Android Studio
+Yrityksemme on harkinnut alkamaan luomaan mobiilisovelluksia asiakkaille. Tähän tarkoitukseen valitsimme Android Studion, jolla on tehty android-sovelluksien luontiin. Android Studio on android-käyttöjärjestelmän virallinen ohjelmointiympäristö, joka on julkaistiin joulukuussa 2014. Android Studiolla voi koodata Javalla, Kotlinilla, C++:lla. Android Studion hyviä puolia on muun muassa:
+
+- Ohjelmoija voi luoda virtuaalisia laitteita, jotka emuloivat Android Studiota. Tämä ominaisuus antaa sen mahdollisuuden, että tehtyjä sovelluksia voi testata ennen kun ne julkaistaan.
+- Android Studion voi yhdistää GitHubiin.
+- Jos Android Studion käytössä tarvitsee apua, löytää vastauksen varmasti Androidin foorumeilta, jossa on iso ja aktiivinen yhteisö.
+- Ilmainen.
+- Helppokäyttöinen.
+
+Android Studiossa ei ole paljoa huonoja puolia, mutta lukemieni arvostelujen mukaan Android Studio tarvitsee paljon tietokoneen prosessointivoimaa ja muistia, joten vakaaseen käyttöön tarvitaan tehokas kannettava tai pöytäkone.
+
