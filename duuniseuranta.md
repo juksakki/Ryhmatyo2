@@ -35,13 +35,13 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 ##Jukka 
 
  30.9.2019/1.10.2019 Kirjoitin markkinoista ja kilpailijoista, hintatasosta
-  Kilpailijoista: speaciaali.fi, delanet.fi ja www.warmane.com
+  Kilpailijoista: speaciaali.fi, delanet.fi ja warmane.com
  markkinat: että mitä hyvään markkinointiin kuluu ja mitkä asiat, ovat tärkeimpiä.
- Siirsin tekstit githubbiiin.
+ Siirsin tekstit githubiin.
 
 1.10.2019 - Kirjoitin apple xcodesta,että mitä se tarkoittaa ja se ominaisuuksista, instrumenteista.
 
-2.10.2019 - Kirjoitin apple xcode tekstin valiimiksi.
+2.10.2019 - Kirjoitin apple xcode tekstin valmiiksi.
 
 4.10.2019 - Siirsin  Apple xcode tekstin githubiin.
 
