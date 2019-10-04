@@ -1,6 +1,8 @@
-##Jaakko
-######30.9.2019
-Tutkin ja harjoittelin Githubin fetch, rebase, merge, pull ja push komentoja Jarliinin kanssa.
+Duuniseuranta
+
+### Jaakko
+
+30.09.2019. Tutkin ja harjoittelin Githubin fetch, rebase, merge, pull ja push komentoja Jarliinin kanssa.
 
 Git Pull = Hakee koko repositoryn sellaisenaan omalle koneellesi, muutokset näkyvät koneellasi.
 
@@ -14,27 +16,27 @@ Git Commit = "tallentaa" muutetut tiedostot ja commitin jälkeen voit viedä muu
 
 Git Push = Vie tietokoneellasi tehdyt muutokset Githubin repositoryyn
 
-**Eli** jos joku muu on tehnyt repositoryyn muutoksia ja haluat viedä omat muutoksesi Githubiin, toimi normaalien komentojen lisäksi seuraavasti:
+Eli jos joku muu on tehnyt repositoryyn muutoksia ja haluat viedä omat muutoksesi Githubiin, toimi normaalien komentojen lisäksi seuraavasti:
 $ Git fetch # hakee tehdyt muutokset repositorystä koneellesi
 $ Git rebase # yhdistää fetchillä ladatut muutokset oman koneesi versioon repositorystä
 $ Git push origin master # vie tehdyt muutokset githubin repositoryyn
-###### 1.1.2019
-Kirjoitin GitHubista osana toolchainiä
 
-#####1.10.2019
-Päivitin duunilistaan seuraavan työvaiheen työtehtävät
+01.10.2019. Kirjoitin GitHubista osana toolchainiä
+
+01.10.2019. Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 
 
-##Jarliin
+### Jarliin
+
 30.9.2019 Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian. Teksti pushattu GitHubiin. 
 
 1.10.2019 Suoritin yksilötehtävän. Ja kirjoitin Brackets- ohjelmasta toolchain.md tiedostoon.
 
 
-##Jukka 
+### Jukka 
 
- 30.9.2019/1.10.2019 Kirjoitin markkinoista ja kilpailijoista, hintatasosta
-  Kilpailijoista: speaciaali.fi, delanet.fi ja warmane.com
+ 30.9.2019/1.10.2019. Kirjoitin markkinoista ja kilpailijoista, hintatasosta
+ Kilpailijoista: speaciaali.fi, delanet.fi ja warmane.com
  markkinat: että mitä hyvään markkinointiin kuluu ja mitkä asiat, ovat tärkeimpiä.
  Siirsin tekstit githubiin.
 
@@ -45,7 +47,7 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 4.10.2019 - Siirsin  Apple xcode tekstin githubiin.
 
 
-##Noora
+### Noora
 
 30.09.2019 - Tehty duunilistan sisältö githubiin
 
@@ -54,7 +56,7 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 01.10.2019 - Tehty IDE työkalu Eclipse ja laitettu githubiin
 
 
-##Akseli
+### Akseli
 
 30.09.2019. Opettelin Githubin komentoja paremmin ja yleisesti sen toimintoja. Jaakko teki loistavaa taustatyötä komennoista ja  ohjeisti niistä.
 
@@ -71,7 +73,7 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 04.10.2019. Parantelin/viimeistelin ulkoasua sekä vein puuttuvia tietoja,, Toolchain.md, duuniseuranta.md. osioihimme.
 
 
-##Rasmus
+### Rasmus
 
 30.9.2019. Kirjotin Palvelut osion valmiiksi.
 
