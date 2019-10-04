@@ -72,3 +72,13 @@ Yrityksemme on harkinnut alkamaan luomaan mobiilisovelluksia asiakkaille. Tähä
 
 Android Studiossa ei ole paljoa huonoja puolia, mutta lukemieni arvostelujen mukaan Android Studio tarvitsee paljon tietokoneen prosessointivoimaa ja muistia, joten vakaaseen käyttöön tarvitaan tehokas kannettava tai pöytäkone.
 
+
+### Adobe Illustrator
+Käytämme Adobe Illustratoria työkaluna nettisivujen graafiseen suunnitteluun. Adobe Illustratorin hyviä puolia ovat muun muassa:
+
+- Hyvä käyttöjärjestelmä, jota voi muokata itselleen mukavaksi. Esimerkiksi työkalupalkkeja voi pienentää ja piilottaa tarpeen mukaan.
+- Illustratoria voi käyttää melkein millä vain tietokoneella, koska sen järjestelmävaatimuksen ovat pienet. 
+- Yhteensopivuus Adobe Photoshopin kanssa
+- Vuosittaisia päivityksiä ja uusia ominaisuuksia uuden julkaistavan version yhteydessä.
+- Illustrator maksaa 24,97€/kk, joka on mielestämme sopiva hinta.
+
