@@ -32,7 +32,20 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 1.10.2019 Suoritin yksilötehtävän. Ja kirjoitin Brackets- ohjelmasta toolchain.md tiedostoon.
 
 
-##Jukka Vein markkinat ja kilpailijat tekstin githubiin.
+##Jukka 
+
+ 30.9.2019/1.10.2019 Kirjoitin markkinoista ja kilpailijoista, hintatasosta
+  Kilpailijoista: speaciaali.fi, delanet.fi ja www.warmane.com
+ markkinat: että mitä hyvään markkinointiin kuluu ja mitkä asiat, ovat tärkeimpiä.
+ Siirsin tekstit githubbiiin.
+
+1.10.2019 - Kirjoitin apple xcodesta,että mitä se tarkoittaa ja se ominaisuuksista, instrumenteista.
+
+2.10.2019 - Kirjoitin apple xcode tekstin valiimiksi.
+
+4.10.2019 - Siirsin  Apple xcode tekstin githubiin.
+
+
 
 
 ##Noora
