@@ -59,7 +59,7 @@ $ Git push origin master # vie tehdyt muutokset githubin repositoryyn
 
 ### Akseli
 
-30.09.2019. Opettelin Githubin komentoja paremmin ja yleisesti sen toimintoja. Jaakko teki loistavaa taustatyötä komennoista ja  ohjeisti niistä.
+30.09-01.10.2019. Opettelin Githubin komentoja paremmin ja yleisesti sen toimintoja. Jaakko teki loistavaa taustatyötä komennoista ja  ohjeisti niistä.
 
 30.09-01.10.2019. Kirjoitin yritysidean valmiiksi.
 
@@ -72,6 +72,8 @@ $ Git push origin master # vie tehdyt muutokset githubin repositoryyn
 04.10.2019. Vein tekstin Javasta Githubiin
 
 04.10.2019. Parantelin/viimeistelin ulkoasua sekä vein puuttuvia tietoja,, Toolchain.md, duuniseuranta.md. osioihimme.
+
+04.10.2019. Muutin duunilistan ulkoasun selkeään muotoon.
 
 
 ### Rasmus
