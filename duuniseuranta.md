@@ -26,6 +26,7 @@ Kirjoitin GitHubista osana toolchainiä
 #####1.10.2019
 Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 
+
 ##Jarliin
 30.9.2019 Suunnittelimme Jaskan kanssa yrityksemme myynti- ja markkinointistrategian. Teksti pushattu GitHubiin. 
 
@@ -46,8 +47,6 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 4.10.2019 - Siirsin  Apple xcode tekstin githubiin.
 
 
-
-
 ##Noora
 
 30.09.2019 - Tehty duunilistan sisältö githubiin
@@ -59,11 +58,19 @@ Päivitin duunilistaan seuraavan työvaiheen työtehtävät
 
 ##Akseli
 
+30.09.2019. Opettelin Githubin komentoja paremmin ja yleisesti sen toimintoja. Jaakko teki loistavaa taustatyötä komennoista ja  ohjeisti niistä.
+
 30.09-01.10.2019. Kirjoitin yritysidean valmiiksi.
 
-01.10.2019.       Vein tekstin Githubiin.
+01.10.2019. Vein tekstin Githubiin.
 
-01.10.2019.       Aloitin kirjoittamaan seuraavasta aiheesta, javasta.
+01.10.2019. Aloitin kirjoittamaan seuraavasta aiheesta, javasta.
+
+02.10.2019. Sain tekstin valmiiksi javasta.
+
+04.10.2019. Vein tekstin Javasta Githubiin
+
+04.10.2019. Parantelin/viimeistelin ulkoasua sekä vein puuttuvia tietoja,, Toolchain.md, duuniseuranta.md. osioihimme.
 
 
 ##Rasmus
