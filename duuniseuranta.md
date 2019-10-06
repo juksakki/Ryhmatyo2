@@ -3,7 +3,7 @@ Duuniseuranta
 
 ### Jaakko
 
-30.09.2019. Tutkin ja harjoittelin Githubin fetch, rebase, merge, pull ja push komentoja Jarliinin kanssa.
+30.09.2019. Tutkin ja harjoittelin Githubin fetch, rebase, merge, pull ja push komentoja Jarliinin kanssa. Suunnittelimme myös Jarliinin kanssa yrityksemme myynti- ja markkinointistrategian.
 
 Git Pull = Hakee koko repositoryn sellaisenaan omalle koneellesi, muutokset näkyvät koneellasi.
 
